@@ -1,5 +1,6 @@
 {
-  "usuario": {
+  "usuario": [
+    {
     "id": 1,
     "senha": "senha123",
     "nome": "João Silva",
@@ -20,5 +21,6 @@
         "feita": false
       }
     ]
+      ]
   }
 }
