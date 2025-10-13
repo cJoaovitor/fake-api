@@ -1,19 +1,19 @@
 {
   "usuario": {
-    "idusuario": 1,
+    "id": 1,
     "senha": "senha123",
     "nome": "João Silva",
     "moedas": 100,
     "tarefas_usuario": [
       {
-        "id_tarefa": 1,
+        "id": 1,
         "nome": "Tarefa A",
         "pontos": 50,
         "descricao": "Descrição da Tarefa A",
         "feita": true
       },
       {
-        "id_tarefa": 2,
+        "id": 2,
         "nome": "Tarefa B",
         "pontos": 30,
         "descricao": "Descrição da Tarefa B",
