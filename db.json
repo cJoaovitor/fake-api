@@ -5,10 +5,10 @@
     "senha": "senha123",
     "nome": "João Silva",
     "moedas": 100,
-    "tarefas_usuario": 
-      ]
+    "tarefas_usuario": []
+      ],
+
     "tarefa":[
-      [
   {
     "idTarefa": 1,
     "nome": "Hidratação",
