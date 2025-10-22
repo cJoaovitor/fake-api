@@ -1,257 +1,253 @@
 {
   "usuario": [
     {
-    "id": 1,
-    "senha": "senha123",
-    "nome": "João Silva",
-    "moedas": 100,
-    "tarefas_usuario": []
-    },
+      "id": 1,
+      "senha": "senha123",
+      "nome": "João Silva",
+      "moedas": 100,
+      "tarefas_usuario": []
+    }
   ],
-
-    "tarefa":[
-  {
-    "idTarefa": 1,
-    "nome": "Hidratação",
-    "pontos": 50,
-    "descricao": "Beba pelo menos 2 litros de água hoje.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 2,
-    "nome": "Caminhada",
-    "pontos": 40,
-    "descricao": "Faça uma caminhada de 30 minutos ao ar livre.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 3,
-    "nome": "Alimentação Saudável",
-    "pontos": 30,
-    "descricao": "Consuma 5 porções de frutas ou vegetais hoje.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 4,
-    "nome": "Boa Noite de Sono",
-    "pontos": 30,
-    "descricao": "Descanse por pelo menos 8 horas de sono.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 5,
-    "nome": "Bem-Estar Mental",
-    "pontos": 30,
-    "descricao": "Pratique 10 minutos de meditação ou respiração profunda.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 6,
-    "nome": "Café da manhã saudável",
-    "pontos": 20,
-    "descricao": "Coma um café da manhã balanceado com proteínas e fibras.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 7,
-    "nome": "Hidratação contínua",
-    "pontos": 15,
-    "descricao": "Beba 1 copo de água antes de cada refeição.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 8,
-    "nome": "Alongamento matinal",
-    "pontos": 25,
-    "descricao": "Faça 15 minutos de alongamento ao acordar.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 9,
-    "nome": "Evitar açúcar líquido",
-    "pontos": 30,
-    "descricao": "Evite refrigerantes e bebidas açucaradas hoje.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 10,
-    "nome": "Cozinha saudável",
-    "pontos": 40,
-    "descricao": "Prepare uma refeição caseira ao invés de pedir delivery.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 11,
-    "nome": "Cardio",
-    "pontos": 35,
-    "descricao": "Pratique 30 minutos de exercício cardiovascular.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 12,
-    "nome": "Caminhada diária",
-    "pontos": 20,
-    "descricao": "Faça 10.000 passos durante o dia.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 13,
-    "nome": "Lanche saudável",
-    "pontos": 25,
-    "descricao": "Inclua uma porção de oleaginosas (castanhas, nozes) na dieta.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 14,
-    "nome": "Evitar frituras",
-    "pontos": 30,
-    "descricao": "Evite frituras durante todas as refeições do dia.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 15,
-    "nome": "Respiração consciente",
-    "pontos": 15,
-    "descricao": "Respire profundamente 5 vezes antes de começar o trabalho.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 16,
-    "nome": "Postura correta",
-    "pontos": 20,
-    "descricao": "Mantenha uma postura correta ao sentar durante 1 hora.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 17,
-    "nome": "Frutas no lanche",
-    "pontos": 25,
-    "descricao": "Inclua pelo menos 2 porções de frutas durante o dia.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 18,
-    "nome": "Evitar fast food",
-    "pontos": 30,
-    "descricao": "Não consuma fast food durante o dia.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 19,
-    "nome": "Exercício de força",
-    "pontos": 35,
-    "descricao": "Faça 20 minutos de treino de força (musculação ou peso corporal).",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 20,
-    "nome": "Meditação curta",
-    "pontos": 20,
-    "descricao": "Pratique 10 minutos de meditação ou mindfulness.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 21,
-    "nome": "Evitar açúcar refinado",
-    "pontos": 25,
-    "descricao": "Evite doces e produtos com açúcar refinado durante o dia.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 22,
-    "nome": "Hidratação extra",
-    "pontos": 20,
-    "descricao": "Beba pelo menos mais 1 litro de água além do habitual.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 23,
-    "nome": "Alongamento noturno",
-    "pontos": 15,
-    "descricao": "Faça 10 minutos de alongamento antes de dormir.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 24,
-    "nome": "Caminhada leve",
-    "pontos": 20,
-    "descricao": "Faça uma caminhada leve de 20 minutos após o almoço.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 25,
-    "nome": "Sono consistente",
-    "pontos": 30,
-    "descricao": "Tente dormir e acordar no mesmo horário do dia.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 26,
-    "nome": "Evitar cafeína",
-    "pontos": 15,
-    "descricao": "Não consuma café ou bebidas com cafeína após as 17h.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 27,
-    "nome": "Lanche saudável à tarde",
-    "pontos": 20,
-    "descricao": "Coma um lanche leve com frutas ou iogurte natural à tarde.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 28,
-    "nome": "Evitar telas antes de dormir",
-    "pontos": 25,
-    "descricao": "Desligue celulares e TVs pelo menos 30 minutos antes de dormir.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 29,
-    "nome": "Higiene do sono",
-    "pontos": 20,
-    "descricao": "Mantenha o quarto escuro, silencioso e fresco para dormir melhor.",
-    "feita": false,
-    "selecionada": false
-  },
-  {
-    "idTarefa": 30,
-    "nome": "Movimento a cada hora",
-    "pontos": 15,
-    "descricao": "Levante e movimente-se por 2 minutos a cada hora de trabalho.",
-    "feita": false,
-    "selecionada": false
-  }
-]
-
-    
-  }
-
+  "tarefa": [
+    {
+      "idTarefa": 1,
+      "nome": "Hidratação",
+      "pontos": 50,
+      "descricao": "Beba pelo menos 2 litros de água hoje.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 2,
+      "nome": "Caminhada",
+      "pontos": 40,
+      "descricao": "Faça uma caminhada de 30 minutos ao ar livre.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 3,
+      "nome": "Alimentação Saudável",
+      "pontos": 30,
+      "descricao": "Consuma 5 porções de frutas ou vegetais hoje.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 4,
+      "nome": "Boa Noite de Sono",
+      "pontos": 30,
+      "descricao": "Descanse por pelo menos 8 horas de sono.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 5,
+      "nome": "Bem-Estar Mental",
+      "pontos": 30,
+      "descricao": "Pratique 10 minutos de meditação ou respiração profunda.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 6,
+      "nome": "Café da manhã saudável",
+      "pontos": 20,
+      "descricao": "Coma um café da manhã balanceado com proteínas e fibras.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 7,
+      "nome": "Hidratação contínua",
+      "pontos": 15,
+      "descricao": "Beba 1 copo de água antes de cada refeição.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 8,
+      "nome": "Alongamento matinal",
+      "pontos": 25,
+      "descricao": "Faça 15 minutos de alongamento ao acordar.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 9,
+      "nome": "Evitar açúcar líquido",
+      "pontos": 30,
+      "descricao": "Evite refrigerantes e bebidas açucaradas hoje.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 10,
+      "nome": "Cozinha saudável",
+      "pontos": 40,
+      "descricao": "Prepare uma refeição caseira ao invés de pedir delivery.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 11,
+      "nome": "Cardio",
+      "pontos": 35,
+      "descricao": "Pratique 30 minutos de exercício cardiovascular.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 12,
+      "nome": "Caminhada diária",
+      "pontos": 20,
+      "descricao": "Faça 10.000 passos durante o dia.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 13,
+      "nome": "Lanche saudável",
+      "pontos": 25,
+      "descricao": "Inclua uma porção de oleaginosas (castanhas, nozes) na dieta.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 14,
+      "nome": "Evitar frituras",
+      "pontos": 30,
+      "descricao": "Evite frituras durante todas as refeições do dia.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 15,
+      "nome": "Respiração consciente",
+      "pontos": 15,
+      "descricao": "Respire profundamente 5 vezes antes de começar o trabalho.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 16,
+      "nome": "Postura correta",
+      "pontos": 20,
+      "descricao": "Mantenha uma postura correta ao sentar durante 1 hora.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 17,
+      "nome": "Frutas no lanche",
+      "pontos": 25,
+      "descricao": "Inclua pelo menos 2 porções de frutas durante o dia.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 18,
+      "nome": "Evitar fast food",
+      "pontos": 30,
+      "descricao": "Não consuma fast food durante o dia.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 19,
+      "nome": "Exercício de força",
+      "pontos": 35,
+      "descricao": "Faça 20 minutos de treino de força (musculação ou peso corporal).",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 20,
+      "nome": "Meditação curta",
+      "pontos": 20,
+      "descricao": "Pratique 10 minutos de meditação ou mindfulness.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 21,
+      "nome": "Evitar açúcar refinado",
+      "pontos": 25,
+      "descricao": "Evite doces e produtos com açúcar refinado durante o dia.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 22,
+      "nome": "Hidratação extra",
+      "pontos": 20,
+      "descricao": "Beba pelo menos mais 1 litro de água além do habitual.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 23,
+      "nome": "Alongamento noturno",
+      "pontos": 15,
+      "descricao": "Faça 10 minutos de alongamento antes de dormir.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 24,
+      "nome": "Caminhada leve",
+      "pontos": 20,
+      "descricao": "Faça uma caminhada leve de 20 minutos após o almoço.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 25,
+      "nome": "Sono consistente",
+      "pontos": 30,
+      "descricao": "Tente dormir e acordar no mesmo horário do dia.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 26,
+      "nome": "Evitar cafeína",
+      "pontos": 15,
+      "descricao": "Não consuma café ou bebidas com cafeína após as 17h.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 27,
+      "nome": "Lanche saudável à tarde",
+      "pontos": 20,
+      "descricao": "Coma um lanche leve com frutas ou iogurte natural à tarde.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 28,
+      "nome": "Evitar telas antes de dormir",
+      "pontos": 25,
+      "descricao": "Desligue celulares e TVs pelo menos 30 minutos antes de dormir.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 29,
+      "nome": "Higiene do sono",
+      "pontos": 20,
+      "descricao": "Mantenha o quarto escuro, silencioso e fresco para dormir melhor.",
+      "feita": false,
+      "selecionada": false
+    },
+    {
+      "idTarefa": 30,
+      "nome": "Movimento a cada hora",
+      "pontos": 15,
+      "descricao": "Levante e movimente-se por 2 minutos a cada hora de trabalho.",
+      "feita": false,
+      "selecionada": false
+    }
+  ]
+}
